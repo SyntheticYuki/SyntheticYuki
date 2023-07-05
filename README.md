@@ -1,16 +1,20 @@
-### Hi there 👋
+![fsL23gz](https://github.com/SilentYuki/Portfolio/assets/135425690/96bea6d5-7c18-41f0-8d8a-cbcaaad3b266)
 
-<!--
-**SilentYuki/SilentYuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yuki, and I am an independent blockchain security researcher.
 
-Here are some ideas to get you started:
+- Currently, I am actively engaged in audit contests on platforms such as sherlock  and code4rena and trying my best to find every vulnerability possible. l am work-learning type of person, so my ideal goal is to participate in every contest l see. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Yuki's wall of achievements
+
+| Overall issues found | High risk | Unique highs | Medium risk | Unique mediums | Audited contests |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 15 issues found | 9 highs | - | 6 mediums | - | 3 contests |
+
+## Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
+| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 4 highs | 3 mediums | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/symmetrical.md) | - | - | Solidity |
+| [Unstoppable](https://audits.sherlock.xyz/contests/95) | 3 highs | 2 mediums | - | - | - | Vyper |
+| [Bond Options](https://audits.sherlock.xyz/contests/99) | 2 highs | 1 medium | - | - | - | Solidity |
+| [GFX Labs](https://audits.sherlock.xyz/contests/97) | - | - | - | - | - | Solidity |
+
