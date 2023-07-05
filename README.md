@@ -1,9 +1,9 @@
-# About Yuki
+# [About Yuki](https://github.com/SilentYuki)
 My name is Yuki, and I am an independent blockchain security researcher.
 
 - Currently, I am actively engaged in audit contests on platforms such as sherlock  and code4rena and trying my best to find every vulnerability possible. l am work-learning type of person, so my ideal goal is to participate in every contest l see. 
 
-# Yuki's wall of achievements
+# [Yuki's wall of achievements](https://github.com/SilentYuki)
 
 | Overall issues found | High risk | Unique highs | Medium risk | Unique mediums | Audited contests |
 |:--:|:--:|:--:|:--:|:--:|:--:|
