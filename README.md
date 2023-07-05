@@ -17,3 +17,10 @@ My name is Yuki, and I am an independent blockchain security researcher.
 | [Bond Options](https://audits.sherlock.xyz/contests/99) | 3 highs | 1 medium | - | - | - | Solidity |
 | [GFX Labs](https://audits.sherlock.xyz/contests/97) | - | - | - | - | - | Solidity |
 
+# Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
+| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [PoolTogether](https://code4rena.com/contests/2023-07-pooltogether#top) | - | - | - | - | - | Solidity |
+| [Alexar Network](https://code4rena.com/contests/2023-07-axelar-network#top) | - | - | - | - | - | Solidity |
+
+
