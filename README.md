@@ -22,10 +22,12 @@ My name is Yuki, and I am an independent blockchain security researcher.
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| - | - | - | - | - || - | - | - |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| - | - | - | - | - || - | - | - |
 
 # Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=100 height=25>
 | Project | Severity | Security Report | Payout | Status |
