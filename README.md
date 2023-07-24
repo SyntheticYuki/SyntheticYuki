@@ -52,7 +52,7 @@ My name is Yuki, and I am an independent blockchain security researcher.
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Payout |
 |:--:|:--:|:--:|:--:|:--:|
-| - | - | - | - | - |
+| [VMEX](https://app.hats.finance/audit-competitions/vmex-0xb6861bdeb368a1bf628fc36a36cec62d04fb6a77/rewards) | - | - | - | - |
 
 ### Bug bounties
 | Project | Severity | Security Report | Payout | Status |
