@@ -41,6 +41,18 @@ My name is Yuki, and I am an independent blockchain security researcher.
 | [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | - | - | - | - | - | Solidity |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | - | - | - | - | Solidity |
 
+# Hats Finance <img src="https://pbs.twimg.com/profile_images/1541463778113466368/VAupIuYf_400x400.png" width=35 height=28>
+
+### Audit Competitions
+| Contest | High risk | Medium risk | Security report | Payout |
+|:--:|:--:|:--:|:--:|:--:|
+| - | - | - | - | - |
+
+### Bug bounties
+| Project | Severity | Security Report | Payout | Status |
+|:--:|:--:|:--:|:--:|:--:|
+| - | - | - | - | - |
+
 
 # Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=100 height=25>
 | Project | Severity | Security Report | Payout | Status |
