@@ -16,6 +16,8 @@ My name is Yuki, and I am an independent blockchain security researcher.
 | 25 issues found | 17 highs | 8 mediums | 6 contests | [Source](https://github.com/SilentYuki/Monthly-reports/tree/main/22%20June,%202023%20-%2022%20July,%202023) | - |
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
+
+### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Symmetrical](https://audits.sherlock.xyz/contests/85)| 4 highs | 3 mediums | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/symmetrical.md) | - | - | Solidity |
@@ -28,6 +30,8 @@ My name is Yuki, and I am an independent blockchain security researcher.
 | [Tokemak](https://audits.sherlock.xyz/contests/101) | - | - | - | - | - | Solidity |
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
+
+### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top) | - | - | - | - | - | Solidity |
@@ -35,6 +39,8 @@ My name is Yuki, and I am an independent blockchain security researcher.
 | [Moonwell](https://code4rena.com/contests/2023-07-moonwell#top) | - | - | - | - | - | Solidity |
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
+
+### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | - | - | - | - | Solidity |
@@ -55,6 +61,8 @@ My name is Yuki, and I am an independent blockchain security researcher.
 
 
 # Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=100 height=25>
+
+### Bug bounties
 | Project | Severity | Security Report | Payout | Status |
 |:--:|:--:|:--:|:--:|:--:|
 | - | - | - | - | - |
