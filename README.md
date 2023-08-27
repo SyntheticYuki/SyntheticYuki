@@ -7,7 +7,7 @@ My name is Yuki, and I am an independent blockchain security researcher.
 
 | Overall issues found | High risk | Unique highs | Medium risk | Unique mediums | Audited contests |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| 37 issues found | 22 highs | - | 15 mediums | - | 9 contests |
+| 37 issues found | 22 highs | 1 | 15 mediums | - | 9 contests |
 
 # Yuki's monthly tracking 
 ### 22 June, 2023 - 22 July, 2023 
