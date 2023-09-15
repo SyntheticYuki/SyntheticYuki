@@ -32,6 +32,7 @@ My name is Yuki, and I am an independent blockchain security researcher.
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| - | - | - | - | - | - | - |
 
 # Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=100 height=25>
 
