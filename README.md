@@ -18,7 +18,7 @@ My name is Yuki, and I am an independent blockchain security researcher.
 | [Unstoppable](https://audits.sherlock.xyz/contests/95) | 2 highs | 1 medium | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/unstoppable.md) | 2nd | $3,842.94 USDC  | Vyper |
 | [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 high | 1 medium | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/BondOptions.md) | 11th | $227.91 USDC | Solidity |
 | [Index Update](https://audits.sherlock.xyz/contests/91) | 0 highs | 1 medium | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/Index-update.md) | 5th | $697.07 USDC | Solidity |
-| [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 high | 2 medium | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/TokenSoft.md) | 2nd | $1,773.34 USDC | Solidity |
+| [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 high | 2 mediums | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/TokenSoft.md) | 2nd | $1,773.34 USDC | Solidity |
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
